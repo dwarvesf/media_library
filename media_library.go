@@ -10,11 +10,11 @@ import (
 	"reflect"
 	"strings"
 
+	"github.com/dwarvesf/admin"
+	"github.com/dwarvesf/qor"
+	"github.com/dwarvesf/qor/resource"
+	"github.com/dwarvesf/qor/utils"
 	"github.com/jinzhu/gorm"
-	"github.com/qor/admin"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
-	"github.com/qor/qor/utils"
 )
 
 type MediaLibraryInterface interface {

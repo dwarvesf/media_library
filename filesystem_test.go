@@ -8,9 +8,9 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/dwarvesf/qor/test/utils"
 	"github.com/jinzhu/gorm"
 	"github.com/qor/media_library"
-	"github.com/qor/qor/test/utils"
 )
 
 var db = utils.TestDB()

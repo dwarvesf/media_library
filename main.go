@@ -6,8 +6,8 @@ import (
 	"io"
 	"strings"
 
+	"github.com/dwarvesf/qor/utils"
 	"github.com/jinzhu/gorm"
-	"github.com/qor/qor/utils"
 
 	"os"
 )

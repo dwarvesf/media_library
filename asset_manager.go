@@ -7,9 +7,9 @@ import (
 	"io"
 	"regexp"
 
+	"github.com/dwarvesf/admin"
+	"github.com/dwarvesf/qor/resource"
 	"github.com/jinzhu/gorm"
-	"github.com/qor/admin"
-	"github.com/qor/qor/resource"
 )
 
 // AssetManager defined a asset manager that could be used to manage assets in qor admin
