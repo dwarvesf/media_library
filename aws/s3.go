@@ -17,7 +17,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/ec2metadata"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/s3"
-	"github.com/qor/media_library"
+	"github.com/dwarvesf/media_library"
 )
 
 // S3 a struct used to upload files to S3
